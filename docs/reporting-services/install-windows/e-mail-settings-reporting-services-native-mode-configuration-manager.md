@@ -55,7 +55,7 @@ To configure a report server for e-mail delivery, do the following:
 
      This value can be an IP address, a NetBIOS name of a computer on your corporate intranet, or a fully qualified domain name. The value you type for the **SMTP Server** is saved in the `<SMTPServer>` field in the rsreportserver.config file.
 
-4. Use the **Authentication** drop down to specify how to authentication to the SMTP server. This 
+4. Use the **Authentication** drop down to specify how to authenticate to the SMTP server. This 
 
      - **No authentication** means you will connect anonymously to the mail server that was specified.
      
